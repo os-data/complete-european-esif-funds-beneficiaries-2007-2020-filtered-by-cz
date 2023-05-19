@@ -287,7 +287,7 @@
       "hash": "f98ce66399d044f6942dcc720e322473",
       "mediatype": "text/csv",
       "name": "cz-eu-esif-funds-beneficiaries-2007-2020-full",
-      "path": "https://storage.openspending.org/cz-eu-esif-funds-beneficiaries-2007-2020-full.csv",
+      "path": "https://storage.openspending.org/complete-european-esif-funds-beneficiaries-2007-2020-filtered-by-cz/cz-eu-esif-funds-beneficiaries-2007-2020-full.csv",
       "schema": {
         "fields": [
           {
